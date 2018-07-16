@@ -13,3 +13,5 @@ python train.py --expName politicians --noise 4 --seq-len 100 --nspk 4 --epochs 
 python train.py --expName politicians --noise 2 --seq-len 1000 --nspk 4 --epochs 90 --data data/politicians/
 
 python train.py --expName politicians_step2 --noise 1 --seq-len 1000 --nspk 4 --epochs 90 --data data/politicians/ --checkpoint checkpoints/politicians/bestmodel.pth
+
+We haven't been successful yet.
