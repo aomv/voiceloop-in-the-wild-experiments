@@ -1,4 +1,4 @@
-# voiceloop-in-the-wild-experiments
+VoiceLook In the Wild experiments.
 
 This is an attempt to reproduce the In the Wild experiments for VoiceLoop https://ytaigman.github.io/loop/
 
@@ -15,3 +15,5 @@ python train.py --expName politicians --noise 2 --seq-len 1000 --nspk 4 --epochs
 python train.py --expName politicians_step2 --noise 1 --seq-len 1000 --nspk 4 --epochs 90 --data data/politicians/ --checkpoint checkpoints/politicians/bestmodel.pth
 
 We haven't been successful yet.
+
+We'll soon add more datasets.
