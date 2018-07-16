@@ -1,0 +1,1 @@
+from all regions supported a statement
