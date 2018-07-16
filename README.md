@@ -1,4 +1,4 @@
-VoiceLook In the Wild experiments.
+VoiceLoop In the Wild experiments.
 
 This is an attempt to reproduce the In the Wild experiments for VoiceLoop https://ytaigman.github.io/loop/
 
